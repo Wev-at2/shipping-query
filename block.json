@@ -1,0 +1,9 @@
+{
+  "name": "shipping-info",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": "ShippingInfo",
+  "props": {
+    "onShippingInfoChange": "(info: string) => void"
+  }
+}
